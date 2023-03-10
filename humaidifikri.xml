@@ -1,0 +1,31 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<biodata>
+    <dataDiri>
+        <nama>humaidi fikri</nama>
+        <tl>jakarta</tl>
+        <tgl>17-06-03</tgl>
+        <pndidikan>SMA</pndidikan>
+        <noTelp>09127391239</noTelp>
+        <email>humaidfikri@gmail.com</email>
+    </dataDiri>
+    <dataOrtu>
+        <dataAyah>
+            <nama>fulan</nama>
+            <tl>jakarta</tl>
+            <tgl>230473</tgl>
+            <pndidikan>SLTP</pndidikan>
+            <job>buruh</job>
+            <noTelp>0901238234</noTelp>
+            <email>fulan123@gmail.com</email>
+        </dataAyah>
+        <dataIbu>
+            <nama>fulanah</nama>
+            <tl>jakarta</tl>
+            <tgl>050376</tgl>
+            <pndidikan>SLTP</pndidikan>
+            <job>IRT</job>
+            <noTelp>090128376324</noTelp>
+            <email>fulanah123@gmail.com</email>
+        </dataIbu>
+    </dataOrtu>
+</biodata>
